@@ -1,0 +1,11 @@
+.username {
+  font-size: 28px;
+  color: rgb(51, 53, 161);
+}
+
+.header {
+  text-align: center;
+  background-color: #302e2e;
+  color: aquamarine;
+  padding: 20px;
+}
